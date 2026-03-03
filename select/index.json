@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "元気予報",
+  "base_artist": "Rain Tree",
+  "createdAt": "2026-03-03T13:55:01.797292Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "元気予報",
+      "artist": "Rain Tree",
+      "has_synced": false,
+      "path": "select/pl_01_元気予報_Rain_Tree.txt"
+    }
+  ]
+}
